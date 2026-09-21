@@ -1,40 +1,30 @@
 {
-  "marcos": [
-    { "id": "k1", "label": "Início 1ºT" },
-    { "id": "ht", "label": "Intervalo" },
-    { "id": "k2", "label": "Início 2ºT" },
-    { "id": "end", "label": "Fim de Jogo" }
-  ],
-  "grupos": [
-    {
-      "nome": "Ataque Organizada",
-      "tom": "green",
-      "acoes": ["Saída de Bola", "Jogo Interior", "Centro Lateral", "Jogo Direto", "Perda", "Ocasião"]
-    },
-    {
-      "nome": "Defesa Organizada",
-      "tom": "teal",
-      "acoes": ["Saída de Bola Def.", "Entrelinhas", "Centro Lateral Def.", "Recuperação", "Erro", "Ocasião Def.", "Bloco Alto", "Bloco Médio", "Bloco Baixo"]
-    },
-    {
-      "nome": "Bolas Paradas",
-      "tom": "purple",
-      "acoes": ["Escanteio OF", "Escanteio DF", "Falta Lateral OF", "Falta Lateral DF"]
-    },
-    {
-      "nome": "Outros",
-      "tom": "amber",
-      "acoes": ["Posicionamento", "Transição"]
-    },
-    {
-      "nome": "Gols",
-      "tom": "red",
-      "acoes": ["Gol a Favor", "Gol Contra"]
-    },
-    {
-      "nome": "Avaliação",
-      "tom": "gray",
-      "acoes": ["Bom", "Mau"]
-    }
-  ]
+	"marcos": [
+		{ "id": "k1", "label": "Início 1ºT" },
+		{ "id": "ht", "label": "Intervalo" },
+		{ "id": "k2", "label": "Início 2ºT" },
+		{ "id": "end", "label": "Fim de Jogo" }
+	],
+	"grupos": [
+		{
+			"nome": "Organização Ofensiva",
+			"tom": "green",
+			"acoes": []
+		},
+		{
+			"nome": "Organização Defensiva",
+			"tom": "orange",
+			"acoes": []
+		},
+		{
+			"nome": "Transição Ofensiva",
+			"tom": "teal",
+			"acoes": []
+		},
+		{
+			"nome": "Transição Defensiva",
+			"tom": "blue",
+			"acoes": []
+		}
+	]
 }
