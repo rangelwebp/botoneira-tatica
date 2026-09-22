@@ -9,22 +9,22 @@
 		{
 			"nome": "Organização Ofensiva",
 			"tom": "green",
-			"acoes": ["Inicio", "Final"]
+			"acoes": ["Check"]
 		},
 		{
 			"nome": "Organização Defensiva",
 			"tom": "orange",
-			"acoes": ["Inicio", "Final"]
+			"acoes": ["Check"]
 		},
 		{
 			"nome": "Transição Ofensiva",
 			"tom": "teal",
-			"acoes": ["Inicio", "Final"]
+			"acoes": ["Check"]
 		},
 		{
 			"nome": "Transição Defensiva",
 			"tom": "blue",
-			"acoes": ["Inicio", "Final"]
+			"acoes": ["Check"]
 		}
 	]
 }
