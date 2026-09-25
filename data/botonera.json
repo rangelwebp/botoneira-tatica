@@ -7,24 +7,52 @@
 	],
 	"grupos": [
 		{
-			"nome": "Organização Ofensiva",
+			"nome": "Saída de Bola",
 			"tom": "green",
-			"acoes": ["Check"]
+			"acoes": [
+				"Curta centro",
+				"Curta direita",
+				"Curta esquerda",
+				"Longa"
+			]
 		},
 		{
-			"nome": "Organização Defensiva",
+			"nome": "Linha Defensiva",
 			"tom": "orange",
-			"acoes": ["Check"]
+			"acoes": ["3", "4", "5"]
 		},
 		{
-			"nome": "Transição Ofensiva",
+			"nome": "Altura do Bloco",
 			"tom": "teal",
-			"acoes": ["Check"]
+			"acoes": ["Alto", "Médio", "Baixo"]
 		},
 		{
-			"nome": "Transição Defensiva",
+			"nome": "Corredor Predominante (Ataque)",
 			"tom": "blue",
-			"acoes": ["Check"]
+			"acoes": ["Direita", "Esquerda", "Centro"]
+		},
+		{
+			"nome": "Transição Após Perda",
+			"tom": "green",
+			"acoes": ["Pressiona", "Recompõe", "Falta"]
+		},
+		{
+			"nome": "Bolas Paradas Defensivas",
+			"tom": "orange",
+			"acoes": [
+				"Escanteio curto",
+				"Escanteio 1º poste",
+				"Escanteio centro"
+			]
+		},
+		{
+			"nome": "Bolas Paradas Ofensivas",
+			"tom": "teal",
+			"acoes": [
+				"Escanteio curto",
+				"Escanteio 1º poste",
+				"Escanteio centro"
+			]
 		}
 	]
 }
