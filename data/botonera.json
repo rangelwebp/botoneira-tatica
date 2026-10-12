@@ -7,52 +7,14 @@
 	],
 	"grupos": [
 		{
-			"nome": "Saída de Bola",
-			"tom": "green",
-			"acoes": [
-				"Curta centro",
-				"Curta direita",
-				"Curta esquerda",
-				"Longa"
-			]
+			"nome": "Ação com Bola",
+			"tom": "greenyellow",
+			"acoes": ["Ofensiva", "Defensiva"]
 		},
 		{
-			"nome": "Linha Defensiva",
-			"tom": "orange",
-			"acoes": ["3", "4", "5"]
-		},
-		{
-			"nome": "Altura do Bloco",
-			"tom": "teal",
-			"acoes": ["Alto", "Médio", "Baixo"]
-		},
-		{
-			"nome": "Corredor Predominante (Ataque)",
-			"tom": "blue",
-			"acoes": ["Direita", "Esquerda", "Centro"]
-		},
-		{
-			"nome": "Transição Após Perda",
-			"tom": "green",
-			"acoes": ["Pressiona", "Recompõe", "Falta"]
-		},
-		{
-			"nome": "Bolas Paradas Defensivas",
-			"tom": "orange",
-			"acoes": [
-				"Escanteio curto",
-				"Escanteio 1º poste",
-				"Escanteio centro"
-			]
-		},
-		{
-			"nome": "Bolas Paradas Ofensivas",
-			"tom": "teal",
-			"acoes": [
-				"Escanteio curto",
-				"Escanteio 1º poste",
-				"Escanteio centro"
-			]
+			"nome": "Ação sem Bola",
+			"tom": "aqua",
+			"acoes": ["Ofensiva", "Defensiva"]
 		}
 	]
 }
